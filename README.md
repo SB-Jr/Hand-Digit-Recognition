@@ -4,6 +4,7 @@ Implementing models to solve the mnist dataset with various parameters. Comparin
 
 ## Project Organisation
 
+```
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
@@ -43,3 +44,6 @@ Implementing models to solve the mnist dataset with various parameters. Comparin
 │   │
 │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
 │       └── visualize.py
+```
+
+
